@@ -10,7 +10,7 @@ import java.util.List;
 
 
 
-public class WebsturauntStoreAutomationTest {
+public class WebstaurantStoreAutomationTest {
 
     public static void main(String[] args) throws InterruptedException {
 
